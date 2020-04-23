@@ -1,8 +1,3 @@
-@font-face {
-  font-family: 'Apercu Mono';
-  src: url('https://github.com/agraaaaao/The-Invisible-Man/blob/master/Fonts/Apercu-Mono.ttf') format('truetype');
-}
-
 body, html{
   font-family: 'Apercu Mono';
   margin: 20px;
