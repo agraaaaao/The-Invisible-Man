@@ -19,6 +19,14 @@ body, html{
   background-color: black;
 }
 
+p {
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 .imgbox {
   align: center;
   margin: 0, auto;
