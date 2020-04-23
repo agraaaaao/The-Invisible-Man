@@ -23,6 +23,7 @@ body, html{
   font-family: 'Apercu Mono Bold';
   color: white;
   font-size: 48pt;
+  padding-top: 100px;
   padding-bottom: 300px;
   text-align: center;
 }
