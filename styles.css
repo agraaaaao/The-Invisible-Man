@@ -27,9 +27,9 @@ body, html{
 .header {
   font-family: 'Albra Regular';
   color: white;
-  font-size: 150pt;
-  padding-top: 50px;
-  padding-bottom: 100px;
+  font-size: 200pt;
+  padding-top: 30px;
+  padding-bottom: 50px;
   text-align: center;
 }
 
