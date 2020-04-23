@@ -19,6 +19,14 @@ body, html{
   margin: 0, auto;
 }
 
+.header {
+  font-family: 'Apercu Mono Bold';
+  color: white;
+  font-size: 24pt;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
 .disclaimer {
   font-family: 'Apercu Mono Bold';
   color: white;
