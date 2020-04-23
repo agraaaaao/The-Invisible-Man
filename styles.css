@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Apercu Mono;
+  font-family: 'Apercu Mono';
   src: url(Fonts/Apercu-Mono.ttf) format('truetype');
 }
 
@@ -16,7 +16,7 @@ body, html{
 }
 
 .disclaimer {
-  font-family: Apercu Mono;
+  font-family: 'Apercu Mono';
   color: red;
   font-size: 9pt;
   padding-bottom: 40px;
