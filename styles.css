@@ -29,20 +29,13 @@ body, html{
 }
 
 .disclaimer {
-  font-family: 'Apercu Mono Bold';
+  font-family: 'Apercu Mono';
   color: white;
   font-size: 9pt;
   padding-bottom: 40px;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 3px;
-}
-
-.descrip {
-  font-family: 'Apercu Mono';
-  color: white;
-  font-size: 12pt;
-  width: 80%;
 }
 
 .descrip {
