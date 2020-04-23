@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Apercu Mono;
+  src: url(./Fonts/Apercu-Mono.ttf);
+}
 body, html{
   font-family: 'Apercu Mono';
   margin: 20px;
