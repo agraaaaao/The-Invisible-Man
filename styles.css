@@ -4,7 +4,6 @@
 }
 
 body, html{
-  font-family: Apercu Mono;
   margin: 20px;
   padding: 0;
   background-color: black;
@@ -17,6 +16,7 @@ body, html{
 }
 
 .disclaimer {
+  font-family: Apercu Mono;
   color: red;
   font-size: 9pt;
   padding-bottom: 40px;
