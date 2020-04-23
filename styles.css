@@ -51,3 +51,10 @@ body, html{
   font-size: 12pt;
   width: 80%;
 }
+
+.copyright {
+  font-family: 'Apercu Mono';
+  color: #80ffffff;
+  font-size: 9pt;
+  width: 100%;
+}
