@@ -73,3 +73,11 @@ a:visited {
   width: 100%;
   text-align: right;
 }
+
+.statement {
+  font-family: 'Apercu Mono';
+  color: white;
+  font-size: 12pt;
+  width: 80%;
+  text-align: center;
+}
