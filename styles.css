@@ -44,3 +44,10 @@ body, html{
   font-size: 12pt;
   width: 80%;
 }
+
+.descrip {
+  font-family: 'Apercu Mono';
+  color: white;
+  font-size: 12pt;
+  width: 80%;
+}
