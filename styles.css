@@ -31,6 +31,14 @@ body, html{
   text-align: center;
 }
 
+.owner {
+  font-family: 'Apercu Mono';
+  color: #424242;
+  font-size: 12pt;
+  width: 100%;
+  text-align: center;
+}
+
 .disclaimer {
   font-family: 'Apercu Mono';
   color: white;
