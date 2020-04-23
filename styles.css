@@ -28,6 +28,8 @@ body, html{
   font-family: 'Albra Regular';
   color: white;
   font-size: 200pt;
+  margin-top: 20px;
+  margin-bottom: 40px;
   text-align: center;
 }
 
