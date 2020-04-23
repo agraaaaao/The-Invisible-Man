@@ -2,6 +2,10 @@
   font-family: 'Apercu Mono';
   src: url(./Fonts/Apercu-Mono.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Apercu Mono Bold';
+  src: url(./Fonts/Apercu-MonoBold.ttf) format('truetype');
+}
 
 body, html{
   margin: 20px;
@@ -26,7 +30,7 @@ body, html{
 }
 
 .descrip {
-  font-family: 'Space Mono';
+  font-family: 'Apercu Mono Bold';
   color: white;
   font-size: 16pt;
   width: 70%;
