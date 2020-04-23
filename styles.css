@@ -54,7 +54,8 @@ body, html{
 
 .copyright {
   font-family: 'Apercu Mono';
-  color: #ff0000;
+  color: rgba(255,255,255,80);
   font-size: 9pt;
   width: 100%;
+  text-align: center;
 }
