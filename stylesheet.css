@@ -1,4 +1,31 @@
-@font-face {
+<style>
+			@font-face {
   font-family: 'Apercu Mono';
   src: url('https://github.com/agraaaaao/The-Invisible-Man/blob/master/Fonts/Apercu-Mono.ttf') format('truetype');
 }
+		 body, html{
+			margin: 20px;
+			padding: 0;
+			background-color: black;
+			overflow-y: scroll;
+	        }
+			.imgbox {
+				align: center;
+				margin: 0, auto;
+			}
+			.disclaimer {
+				font-family: 'Apercu Mono';
+				color: white;
+				font-size: 9pt;
+				padding-bottom: 40px;
+				text-align: center;
+				text-transform: uppercase;
+				letter-spacing: 3px;
+			}
+			.descrip {
+				font-family: 'Space Mono';
+				color: white;
+				font-size: 16pt;
+				width: 70%;
+			}
+	    </style>
