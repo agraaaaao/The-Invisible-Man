@@ -1,6 +1,9 @@
-# The Invisible Series
+# The Invisible Series, 2020
 
 *RISD Spring 2020 EFS Drawing assignment*
+
+### 👨🏾‍💻 Anmol Govinda Rao
+www.anmolgrao.com
 
 ### 🌐 Artwork:
 https://htmlpreview.github.io/?https://github.com/agraaaaao/The-Invisible-Series/blob/master/the-invisible-series.html
