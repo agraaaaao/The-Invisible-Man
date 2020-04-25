@@ -59,19 +59,11 @@ body, html{
 
 a:link {
   font-family: 'Apercu Mono';
-  color: white; 
+  color: #9FA8DA; 
   background-color: transparent;
   font-size: 9pt;
   width: 100%;
-  text-align: right;
-}
-
-a:visited {
-  color: #424242;
-  background-color: transparent;
-  font-size: 9pt;
-  width: 100%;
-  text-align: right;
+  text-align: left;
 }
 
 .statement {
