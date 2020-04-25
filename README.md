@@ -2,7 +2,7 @@
 
 *RISD Spring 2020 EFS Drawing assignment*
 
-### 🖼 Artwork:
+### 🖼 Artwork
 https://htmlpreview.github.io/?https://github.com/agraaaaao/The-Invisible-Series/blob/master/the-invisible-series.html
 
 ### 📄 Artist's Statement
