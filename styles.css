@@ -13,6 +13,11 @@
   src: url(./Fonts/Albra Regular.otf) format('truetype');
 }
 
+@font-face {
+  font-family: 'Albra Light';
+  src: url(./Fonts/Albra Light.otf) format('truetype');
+}
+
 body, html{
   margin: 20px;
   padding: 0;
@@ -67,7 +72,7 @@ a:link {
 }
 
 .statement {
-  font-family: 'Albra Regular';
+  font-family: 'Albra Light';
   color: white;
   font-size: 36pt;
   width: 100%;
