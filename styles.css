@@ -18,14 +18,14 @@
   src: url(./Fonts/Albra Light.otf) format('truetype');
 }
 
-::-moz-selection { /* Code for Firefox */
-  color: rgba(202,172,255,1);
-  background: rgba(202,172,255,0.12);
+::-moz-selection { /* Code for Firefox rgba(202,172,255,1)*/
+  color: black;
+  background: black;
 }
 
 ::selection {
-  color: rgba(202,172,255,1); 
-  background: rgba(202,172,255,0.12);
+  color: black; 
+  background: black;
 }
 
 body, html{
