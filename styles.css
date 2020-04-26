@@ -19,13 +19,13 @@
 }
 
 ::-moz-selection { /* Code for Firefox */
-  color: black;
-  background: #CAACFF;
+  color: #CAACFF;
+  background: #999999;
 }
 
 ::selection {
-  color: black; 
-  background: #CAACFF;
+  color: #CAACFF; 
+  background: #999999;
 }
 
 body, html{
