@@ -18,6 +18,16 @@
   src: url(./Fonts/Albra Light.otf) format('truetype');
 }
 
+::-moz-selection { /* Code for Firefox */
+  color: black;
+  background: #caacff;
+}
+
+::selection {
+  color: black; 
+  background: #caacff;
+}
+
 body, html{
   margin: 20px;
   padding: 0;
