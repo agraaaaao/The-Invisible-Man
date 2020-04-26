@@ -19,13 +19,13 @@
 }
 
 ::-moz-selection { /* Code for Firefox */
-  color: black;
-  background: rgba(202,172,255,1);
+  color: rgba(202,172,255,1);
+  background: rgba(202,172,255,0.12);
 }
 
 ::selection {
-  color: black; 
-  background: rgba(202,172,255,1);
+  color: rgba(202,172,255,1); 
+  background: rgba(202,172,255,0.12);
 }
 
 body, html{
