@@ -80,6 +80,8 @@ a:link {
   width: 100%;
   text-align: left;
   text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 a:hover {
@@ -90,6 +92,8 @@ a:hover {
   width: 100%;
   text-align: left;
   text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 .statement {
