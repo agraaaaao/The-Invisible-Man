@@ -89,9 +89,9 @@ a:link {
   letter-spacing: 3px;
 }
 
-a:hover {
+a:visited {
   font-family: 'Apercu Mono';
-  color: white; 
+  color: #caacff; 
   background-color: transparent;
   font-size: 9pt;
   width: 100%;
@@ -101,9 +101,9 @@ a:hover {
   letter-spacing: 3px;
 }
 
-a:visited {
+a:hover {
   font-family: 'Apercu Mono';
-  color: #caacff; 
+  color: white; 
   background-color: transparent;
   font-size: 9pt;
   width: 100%;
