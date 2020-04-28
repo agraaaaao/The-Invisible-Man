@@ -1,4 +1,4 @@
-# The Invisible Series, 2020
+# Invisible, 2020
 
 *RISD Spring 2020 EFS Drawing assignment*
 
