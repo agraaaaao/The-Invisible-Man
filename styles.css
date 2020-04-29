@@ -16,16 +16,20 @@
 @font-face {
   font-family: 'Albra Light';
   src: url(./Fonts/Albra Light.otf) format('truetype');
-}
 
+}
 ::-moz-selection { /* Code for Firefox rgba(202,172,255,1)*/
   color: black;
   background: black;
+  
 }
-
 ::selection {
   color: black; 
   background: black;
+}
+
+.module {
+  cursor: url('./images/cursor.png'), auto;	
 }
 
 body, html{
