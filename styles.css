@@ -32,7 +32,7 @@ body, html{
   margin: 20px;
   padding: 0;
   background-color: black;
-  cursor: url('./images/cursor.png'), auto;
+  cursor: url('./images/cursor.svg'), auto;
 }
 
 .imgbox {
@@ -113,7 +113,7 @@ a:hover {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 3px;
-    cursor: url('./images/cursor_hover.png'), auto;
+  cursor: url('./images/cursor_hover.svg'), auto;
 }
 
 .statement {
