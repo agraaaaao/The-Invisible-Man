@@ -33,6 +33,10 @@ body, html{
   padding: 0;
   background-color: black;
   cursor: url('./images/cursor.svg'), auto;
+  cursor: -webkit-image-set(
+  url('./images/cursor.svg') 1x,
+  url('./images/cursor.svg') 2x
+), auto;
 }
 
 .imgbox {
