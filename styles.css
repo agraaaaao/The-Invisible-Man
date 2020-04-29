@@ -32,10 +32,10 @@ body, html{
   margin: 20px;
   padding: 0;
   background-color: black;
-  cursor: url('./images/cursor.svg'), auto;
+  cursor: url('./images/cursor_1@9px.svg'), auto;
   cursor: -webkit-image-set(
-  url('./images/cursor.svg') 1x,
-  url('./images/cursor.svg') 2x
+  url('./images/cursor_1@9px.svg') 1x,
+  url('./images/ccursor_1@9px.svg') 2x
 ), auto;
 }
 
@@ -117,7 +117,7 @@ a:hover {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 3px;
-  cursor: url('./images/cursor.svg'), auto;
+  cursor: url('./images/cursor_1@9px.svg'), auto;
 }
 
 .statement {
