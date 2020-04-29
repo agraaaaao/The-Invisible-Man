@@ -28,14 +28,11 @@
   background: black;
 }
 
-.module {
-  cursor: url('./images/cursor.png'), auto;	
-}
-
 body, html{
   margin: 20px;
   padding: 0;
   background-color: black;
+  cursor: url('./images/cursor.png'), auto;	
 }
 
 .imgbox {
