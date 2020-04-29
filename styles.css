@@ -32,7 +32,7 @@ body, html{
   margin: 20px;
   padding: 0;
   background-color: black;
-  cursor: url('./images/cursor.png'), auto;	
+  cursor: url('./images/cursor.png'), auto;
 }
 
 .imgbox {
@@ -47,6 +47,7 @@ body, html{
   margin-top: 50px;
   margin-bottom: 60px;
   text-align: center;
+  
 }
 
 .disclaimer {
@@ -112,6 +113,7 @@ a:hover {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 3px;
+    cursor: url('./images/cursor_hover.png'), auto;
 }
 
 .statement {
