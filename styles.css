@@ -113,7 +113,7 @@ a:hover {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 3px;
-  cursor: url('./images/cursor_hover.svg'), auto;
+  cursor: url('./images/cursor.svg'), auto;
 }
 
 .statement {
