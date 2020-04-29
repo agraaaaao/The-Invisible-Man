@@ -33,6 +33,7 @@ body, html{
   padding: 0;
   background-color: black;
   cursor: url('./images/cursor@9px.svg'), auto;
+  pointer: url('./images/cursor@9px.svg'), auto;
 }
 
 .imgbox {
