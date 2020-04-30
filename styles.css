@@ -32,8 +32,8 @@ body, html{
   margin: 20px;
   padding: 0;
   background-color: black;
-  cursor: url('./images/cursor@9px.svg'), auto;
-  pointer: url('./images/cursor@9px.svg'), auto;
+  cursor: url('./images/cursor@9px.png'), auto;
+  pointer: url('./images/cursor@9px.png'), auto;
 }
 
 .imgbox {
