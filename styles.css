@@ -1,3 +1,5 @@
+X-Content-Type-Options: nosniff
+
 @font-face {
   font-family: 'Apercu Mono';
   src: url(./Fonts/Apercu-Mono.ttf) format('truetype');
