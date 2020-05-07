@@ -41,6 +41,11 @@ body, html{
   margin: 0, auto;
 }
 
+iframe {
+  border: 2px solid;
+  color: #caacff;
+}
+
 .header {
   font-family: 'Albra Regular';
   color: white;
