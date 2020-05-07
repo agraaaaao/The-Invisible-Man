@@ -40,7 +40,7 @@ body, html{
   align: center;
   margin: 0, auto;
   border: 2px solid;
-  color: rgba(202, 172, 255, .24);
+  color: rgba(202, 172, 255, .12);
 }
 
 .header {
