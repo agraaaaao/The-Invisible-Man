@@ -39,7 +39,7 @@ body, html{
 .imgbox {
   align: center;
   margin: 0, auto;
-  border: 2px solid
+  border: 2px solid;
   color: rgba(202, 172, 255, .24);
 }
 
