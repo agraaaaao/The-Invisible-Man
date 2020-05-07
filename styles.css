@@ -39,9 +39,6 @@ body, html{
 .imgbox {
   align: center;
   margin: 0, auto;
-}
-
-iframe {
   border: 2px solid;
   color: #caacff;
 }
